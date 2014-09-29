@@ -1,0 +1,24 @@
+/* app css stylesheet */
+
+body {
+	padding: 30px;
+}
+
+.city-list-navigation {
+	font-size: 12px;
+	margin-bottom: 30px;
+}
+
+.city-weather-info {
+	list-style-type: none;
+	padding: 0;
+}
+
+.city-weather-info li {
+  line-height: 60px;
+  padding: 0 40px;
+}
+
+.city-weather-info li:nth-child(odd) {
+	background-color: #F3F3F3;
+}
