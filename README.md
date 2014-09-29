@@ -1,6 +1,4 @@
-# Open Weather API test
-
-Please view REQUIREMENTS.md for more information
+# Open Weather API experiments
 
 ## Running the project
 
