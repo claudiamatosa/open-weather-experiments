@@ -8,7 +8,7 @@ angular.module('weatherApp.citySelector.citySelector-service', [])
 				var data = {
 					id: cityIds.join(','),
 					units: 'metric',
-					APPID: '5f59663f2ac7bc10d5140175bcc6f953'
+					APPID: ${appId}
 				};
 				
 		    return $http({
